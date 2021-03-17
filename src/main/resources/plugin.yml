@@ -1,0 +1,16 @@
+name: LobbySystem
+version: ${project.version}
+main: de.niveax.main.Main
+api-version: 1.16
+authors: [Niveax]
+description: Example Plugin for GommeHD.net
+commands:
+  help:
+  joinmessage:
+  quitmessage:
+  build:
+  gm:
+  gamemode:
+  setspawn:
+  spawn:
+  hub:
